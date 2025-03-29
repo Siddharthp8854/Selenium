@@ -1,2 +1,2 @@
 # Selenium
-Auther-Siddharth Pagare
+Author-Siddharth Pagare
